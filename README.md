@@ -6,7 +6,6 @@ An interactive Power BI dashboard analyzing social media performance across plat
 Social media decisions are often intuition-driven. This project uses engagement data to identify what works, where, and when.
 
 
-
 🎯 Objectives
 
 Compare platform-wise engagement
@@ -18,6 +17,8 @@ Analyze organic vs sponsored content impact
 Find optimal posting time
 
 Understand regional engagement trends
+
+![Uploading Dashboard image.jpg…]()
 
 
 📈 Key Insights
