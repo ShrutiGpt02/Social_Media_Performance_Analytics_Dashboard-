@@ -18,8 +18,6 @@ Find optimal posting time
 
 Understand regional engagement trends
 
-![Uploading Dashboard image.jpg…]()
-
 
 📈 Key Insights
 
