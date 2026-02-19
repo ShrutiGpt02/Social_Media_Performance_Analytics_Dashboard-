@@ -2,6 +2,7 @@
 An interactive Power BI dashboard analyzing social media performance across platforms, content formats, posting time, and regions. This project converts engagement data into clear, actionable marketing insights. 
 
 🧩 Problem Statement
+
 Social media decisions are often intuition-driven. This project uses engagement data to identify what works, where, and when.
 
 🎯 Objectives
