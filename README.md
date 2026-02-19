@@ -5,6 +5,8 @@ An interactive Power BI dashboard analyzing social media performance across plat
 
 Social media decisions are often intuition-driven. This project uses engagement data to identify what works, where, and when.
 
+
+
 🎯 Objectives
 
 Compare platform-wise engagement
@@ -16,6 +18,7 @@ Analyze organic vs sponsored content impact
 Find optimal posting time
 
 Understand regional engagement trends
+
 
 📈 Key Insights
 
@@ -37,6 +40,8 @@ Facebook underrated: Fewer engagements, but highest likes
 
 High-impact combo: Educational + Product Promotion = 70%+ engagement
 
+
+
 💼 Business Value
 
 Enables data-driven decisions to:
@@ -48,6 +53,8 @@ Improve campaign ROI
 Schedule posts at peak engagement times
 
 Tailor platform and region-specific strategies
+
+
 
 🛠 Tools & Technologies
 
