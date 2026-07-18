@@ -18,6 +18,11 @@ Social media decisions are often intuition-driven. This project uses engagement 
 
 -Understand regional engagement trends
 
+![platform](platform.png)
+![engagement](engagement.png)
+![regional](regional.png)
+![strategy](strategy.png)
+
 ## Key Insights
 
 -Video-first strategy wins: Videos drive 73% of total engagement
