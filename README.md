@@ -18,6 +18,8 @@ Social media decisions are often intuition-driven. This project uses engagement 
 
 -Understand regional engagement trends
 
+## Dashboard Preview 
+
 ![platform](platform.png)
 ![engagement](engagement.png)
 ![regional](regional.png)
@@ -45,7 +47,7 @@ Social media decisions are often intuition-driven. This project uses engagement 
 
 ## Business Value
 
-Enables data-driven decisions to:
+# Enables data-driven decisions to:
 
 -Optimize content strategy
 
