@@ -62,3 +62,12 @@ Enables data-driven decisions to:
 -Power Query (data cleaning & transformation)
 
 -Excel / CSV dataset
+
+## Connect with Me
+If you'd like to engage with the discussion or view the original post, you can find it here:
+
+🔗[Article Link](https://www.linkedin.com/feed/update/urn:li:activity:7341468237320097793/)
+
+I regularly share insights on Business Analysis, SQL, Power BI, and analytics on LinkedIn.
+
+🔗[LinkedIn Link](https://www.linkedin.com/in/shruti-gupta-16605018b/)
